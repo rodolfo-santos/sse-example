@@ -25,34 +25,23 @@ To get started with the application, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-   Install the dependencies:
    ```
 
-bash
-Copy code
+2. Install the dependencies
+
+```
 cd your-repository
 npm install
-Start the server:
+```
 
-bash
-Copy code
+3. Start the server:
+
+```
 node server.js
-Open the application in your browser:
+```
 
-arduino
-Copy code
+4. Open the application in your browser
+
+```
 http://localhost:3000
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contributing
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-Acknowledgements
-This application was inspired by the concept of Server-Sent Events (SSE) and was created as a learning project.
-
-Screenshots
-Include any relevant screenshots or GIFs of the application in action.
-
-Contact
-For any inquiries or feedback, please contact your-name.
+```
